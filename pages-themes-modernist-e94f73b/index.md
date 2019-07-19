@@ -1,5 +1,6 @@
 ---
-layout: default
+title: My GitHub
+description: Work from my CTBA course
 ---
 
 This is content I built for my CTBA course:
