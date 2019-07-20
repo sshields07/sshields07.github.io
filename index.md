@@ -13,4 +13,4 @@ This is content I've created for my CTBA course:
 
 A sample repository:
 
--[Sample Repository](https://github.com/sshields07/fluffy-octo-sniffle)
+- [Sample Repository](https://github.com/sshields07/fluffy-octo-sniffle)
