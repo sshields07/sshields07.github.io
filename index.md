@@ -10,3 +10,7 @@ PS - Not sure why it's sideways...
 This is content I've created for my CTBA course:
 
 - [Time Series Decomposition](/timeseries/index.md)
+
+A sample repository:
+
+-[Sample Repository](https://github.com/sshields07/fluffy-octo-sniffle)
